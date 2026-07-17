@@ -4,6 +4,11 @@
 for highlighting good and bad polar contacts. Factored out of 
 clustermols by Matthew Baumgartner.
 The advantage of this package is it requires many fewer dependencies.
+
+LEGEND:
+ Good hydrogen bonds (as determined by PyMOL) are shown in yellow. 
+ Electrostatic clashes (donor-donor or acceptor-acceptor) are shown in red. 
+ Close (<4.0 A) but not ideal contacts are shown in purple. 
 '''
 from __future__ import print_function
 
