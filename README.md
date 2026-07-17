@@ -1,4 +1,4 @@
-## Show contacts
+## show_contacts
 
 Shows **polar** contacts.
 
