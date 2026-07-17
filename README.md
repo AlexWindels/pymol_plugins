@@ -1,4 +1,6 @@
-## Show polar contacts
+## Show contacts
+
+Shows **polar** contacts.
 
 Good hydrogen bonds (as determined by PyMOL) are shown in yellow. 
 Electrostatic clashes (donor-donor or acceptor-acceptor) are shown in red. 
